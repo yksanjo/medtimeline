@@ -1,5 +1,12 @@
 # medtimeline
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/medtimeline/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/medtimeline/actions)
+![License](https://img.shields.io/github/license/yksanjo/medtimeline)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/medtimeline)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/medtimeline)
+
 ## Detailed Description
 
 medtimeline is maintained as an industry-grade software project with production-ready engineering practices.  
